@@ -1,64 +1,54 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+## Description
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+This project about a file sharing system where you are able to share several types of file extensions and as well as download them.
 
-## About Laravel
+## Requirements
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+1- Laravel 6+
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+2- Composer
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+3- MYSQL Database
 
-## Learning Laravel
+## Project Snippets
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+#1- Login:
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+![login](https://user-images.githubusercontent.com/23232229/182127055-687a9fda-3860-4321-b733-6a0ef2e83f01.PNG)
 
-## Laravel Sponsors
+#2- Register:
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+![register](https://user-images.githubusercontent.com/23232229/182127177-55d48a97-2ac6-42cc-8497-f3cf1e567218.PNG)
 
-### Premium Partners
+#3- Forgot Password:
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+![resetPass](https://user-images.githubusercontent.com/23232229/182127337-7093cc88-3ee9-42b3-80a5-b6020d8b132a.PNG)
 
-## Contributing
+#4- Get reset password link in email:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![resetLink](https://user-images.githubusercontent.com/23232229/182127563-cf8d3636-3d50-4bc7-abcb-a799088cece5.PNG)
 
-## Code of Conduct
+#5- Change password:
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+![change password](https://user-images.githubusercontent.com/23232229/182127633-0fcb4894-9ecd-45aa-b9e1-6bfb54ba70fe.PNG)
 
-## Security Vulnerabilities
+#6- Dashboard/Download Page: 
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+![dashboard](https://user-images.githubusercontent.com/23232229/182127777-9aa0a68e-a7b9-4748-83a3-73229ab559a1.PNG)
 
-## License
+#7- Add documents
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+![add](https://user-images.githubusercontent.com/23232229/182127845-556cf197-68bc-467f-b705-2c7de8561069.PNG)
+
+#8- Manage documents:
+
+![manage](https://user-images.githubusercontent.com/23232229/182128146-e67180f8-f932-4829-9667-81615d6ccf3d.PNG)
+
+#9- Edit:
+
+![edit](https://user-images.githubusercontent.com/23232229/182128261-2bca45da-6fb7-433d-a3b0-d5ad9dfcba2d.PNG)
+
+#10- Delete:
+
+![delete](https://user-images.githubusercontent.com/23232229/182128310-be43ada1-a801-4e5e-bde9-94d2e73803e6.PNG)
+
